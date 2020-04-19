@@ -1,0 +1,14 @@
+{
+  "name": "@nickmanning214/dir-class",
+  "version": "0.0.0",
+  "description": "A class that represents a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nick Manning",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
